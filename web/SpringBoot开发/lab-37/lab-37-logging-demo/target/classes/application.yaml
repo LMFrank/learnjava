@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: demo-application
+
+logging:
+  file:
+    name: D:/Code/Java/learnjava/web/SpringBoot开发/lab-37/lab-37-logging-demo/${spring.application.name}.log
+    max-history: 7
+    max-size: 10MB
+
+  level:
+    com:
+      lmfrank:
+        learnjava:
+          controller: DEBUG
