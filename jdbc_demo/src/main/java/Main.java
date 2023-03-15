@@ -115,5 +115,5 @@ public class Main {
 
     static final String jdbcUrl = "jdbc:mysql://localhost/learnjdbc?useSSL=false&characterEncoding=utf8";
     static final String jdbcUsername = "root";
-    static final String jdbcPassword = "123456";
+    static final String jdbcPassword = "Chi123456";
 }
